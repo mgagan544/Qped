@@ -2,8 +2,8 @@
 Capstan driven quadruped robot with 12 DOF
 
 # Current state
-First iteration of robot in Fusion360 to get an rough estimate- visualization.
-The robot has no active joints - it just floats for now.
+First iteration of robot in Fusion360 to get an rough estimate- visualization.\
+The robot has no active joints - it just floats for now.\
 Its basically 1 leg mirrored and reused multiple times.
 
 # Repository Structure
@@ -20,8 +20,8 @@ Contains STL file of the whole quadruped along with leg STL.
   <img width="799" height="418" alt="image" src="https://github.com/user-attachments/assets/e5f0b63f-929b-4e4d-9686-1fa29c0d1a50" />
 
 # Future Work
-Addition of revolute joints- to make the staic robot move
-Convert to URDF
+Addition of revolute joints- to make the staic robot move\
+Convert to URDF\
 Navigation in a room - GAZEBO
 
 
